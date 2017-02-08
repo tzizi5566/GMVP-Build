@@ -1,0 +1,15 @@
+package ${PACKAGE_PATH};
+
+public class ${CLASS_NAME}Presenter implements ${CLASS_NAME}Contract.Present {
+
+    private final ${CLASS_NAME}Contract.View mView;
+
+    public ${CLASS_NAME}Presenter(${CLASS_NAME}Contract.View view) {
+        mView = view;
+    }
+
+    @Override
+    public void start() {
+
+    }
+}

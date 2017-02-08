@@ -1,0 +1,5 @@
+package ${BASE_PATH};
+
+public interface BasePresenter {
+    void start();
+}
