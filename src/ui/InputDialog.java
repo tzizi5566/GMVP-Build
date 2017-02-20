@@ -30,7 +30,7 @@ public class InputDialog extends JDialog {
     }
 
     public InputDialog() {
-        setTitle("输入类名");
+        setTitle("Enter the class name");
         setContentPane(contentPane);
         setModal(true);
         getRootPane().setDefaultButton(buttonOK);

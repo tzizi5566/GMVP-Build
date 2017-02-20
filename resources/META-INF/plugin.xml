@@ -1,14 +1,15 @@
-<idea-plugin version="2">
+<idea-plugin version="2" url="https://github.com/tzizi5566/mvpbuild">
     <id>com.kop.gmvpbuild.plugin.intellij</id>
     <name>GMVP Build</name>
-    <version>1.0</version>
-    <vendor email="461559397@qq.com" url="">Kop</vendor>
+    <version>1.0.1</version>
+    <vendor email="tzizi5566@gmail.com" url="">KOP TAO</vendor>
 
     <description><![CDATA[
       Generate the template code based on the Google MVP example
     ]]></description>
 
     <change-notes><![CDATA[
+
     ]]>
     </change-notes>
 

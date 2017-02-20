@@ -4,7 +4,6 @@ import ${BASE_PATH}.BasePresenter;
 import ${BASE_PATH}.BaseView;
 
 public class ${CLASS_NAME}Contract {
-
     interface View extends BaseView<Present> {
 
     }
