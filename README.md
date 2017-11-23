@@ -1,16 +1,18 @@
-# GMVP Build
+## GMVP Build ##
 Generate the template code based on the Google MVP example
 
 ![](https://github.com/tzizi5566/mvpbuild/blob/master/mvpbuild.gif)
 
-## License
+## License ##
 
 ```
+Copyright 2016 tzizi5566
+
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-   http://www.apache.org/licenses/LICENSE-2.0
+    http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
